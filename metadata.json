@@ -1,0 +1,6 @@
+{
+  "name": "CroutSolve - Método de Crout y Factorización LU",
+  "description": "Plataforma educativa para el aprendizaje y resolución de sistemas de ecuaciones lineales mediante el Método de Crout con aplicaciones en Ingeniería Civil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
